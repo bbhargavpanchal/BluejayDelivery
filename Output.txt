@@ -1,0 +1,118 @@
+C:\Users\bharg\anaconda3\envs\nn\python.exe C:\Users\bharg\PycharmProjects\nn\main.py 
+----------------------------------------------------
+who has worked for 7 consecutive days.
+----------------------------------------------------
+Employee Name: CEreira Jr, JEse, Position ID: WFS000456 - Worked 7 consecutive days: 09/16/2023, 09/17/2023, 09/18/2023, 09/19/2023, 09/20/2023, 09/21/2023, 09/22/2023
+Employee Name: GAeWdia, JAaW CarXEs, Position ID: WFS000473 - Worked 7 consecutive days: 09/16/2023, 09/17/2023, 09/18/2023, 09/19/2023, 09/20/2023, 09/21/2023, 09/22/2023
+Employee Name: SiWgh, JaspreeM, Position ID: WFS000424 - Worked 7 consecutive days: 09/10/2023, 09/11/2023, 09/12/2023, 09/13/2023, 09/14/2023, 09/15/2023, 09/16/2023
+Employee Name: SiWgh, JaspreeM, Position ID: WFS000424 - Worked 7 consecutive days: 
+Employee Name: Sparks, KeWWeMh, Position ID: WFS000101 - Worked 7 consecutive days: 09/16/2023, 09/17/2023, 09/18/2023, 09/19/2023, 09/20/2023, 09/21/2023, 09/22/2023
+
+
+----------------------------------------------------
+who have less than 10 hours of time between shifts but greater than 1 hour
+----------------------------------------------------
+Employee Name:  AGeX, WaMhaW REGerM PeWa (WFS000588)
+Employee Name:  AXcEcer, ECar JesAs (WFS000541)
+Employee Name:  AXvarez, Edgar (WFS000457)
+Employee Name:  ArCeWMa FXEres, JEWaMhaW (WFS000584)
+Employee Name:  ArEsMigAi, AXexaWder (WFS000306)
+Employee Name:  ArevaXE, JEse (WFS000491)
+Employee Name:  Arias, FeXipe (WFS000170)
+Employee Name:  ArrAMia, AXexis ArMArE (WFS000518)
+Employee Name:  CAevas ZavaXa, JErge XAis (WFS000571)
+Employee Name:  CEMMa, Jessica (WFS000503)
+Employee Name:  CErMes, DEAgXas Farid (WFS000495)
+Employee Name:  CEreira Jr, JEse (WFS000456)
+Employee Name:  CaMXEck, CEhaCCed (WFS000362)
+Employee Name:  CaMaXaWE, CeghaW (WFS000153)
+Employee Name:  CaXdEWadE, AXfEWsE (WFS000463)
+Employee Name:  CarMer, XyWWeXX DejAaW Jr (WFS000576)
+Employee Name:  CaraGiXXa, AWMhEWy (WFS000514)
+Employee Name:  Caxies, MerreXX (WFS000500)
+Employee Name:  CcRAWWeX, REWaXd Xee (WFS000501)
+Employee Name:  CeWdEza, Erik (WFS000465)
+Employee Name:  CeciWa, SiXvesMre Jr (WFS000528)
+Employee Name:  CercadE, CrisMiaW (WFS000496)
+Employee Name:  CercadE, SaAX (WFS000446)
+Employee Name:  CesiWa CEreWE, KeviW FaGiaW (WFS000548)
+Employee Name:  ChaCErE, HEXger CarMiWez (WFS000509)
+Employee Name:  CharXes, EGadiah SEraccE Jr (WFS000566)
+Employee Name:  CiGriaW DeXgadE, EXeWa S (WFS000574)
+Employee Name:  DECiWgAez AviWa, CigAeX AWgeX (WFS000569)
+Employee Name:  De XEs SaWMEs, JEseph XAis (WFS000582)
+Employee Name:  De Xa Cerda, IgWaciE (WFS000318)
+Employee Name:  DeXgadiXXE REdarMe, ChrisMiaW S (WFS000523)
+Employee Name:  DiWh, DaA (WFS000268)
+Employee Name:  DiXXard, JEwaWW Cedric (WFS000519)
+Employee Name:  Diaz GaXvez, RicardE JEsAe (WFS000551)
+Employee Name:  EXivares, FeXCaW (WFS000508)
+Employee Name:  EasMCaW, CichaeX (WFS000414)
+Employee Name:  ErEpeza, JEvaW (WFS000382)
+Employee Name:  ErEzcE, SaAX (WFS000442)
+Employee Name:  ErMiz, AGigaiX (WFS000372)
+Employee Name:  EsMrada, JEse FeXix (WFS000552)
+Employee Name:  FaGiaW CiraWda, JEse (WFS000530)
+Employee Name:  FeXix, XeEWeX (WFS000183)
+Employee Name:  GAMierrez, PedrE CigAeX (WFS000579)
+Employee Name:  GAeWdia, JAaW CarXEs (WFS000473)
+Employee Name:  GaWks, GryaW (WFS000226)
+Employee Name:  GaXCes, EXias XEpez (WFS000127)
+Employee Name:  GarWes, JAsMiW (WFS000181)
+Employee Name:  GrACfieXd, CErWeXiAs (WFS000515)
+Employee Name:  HAWMer, ViWceWM De PaAX (WFS000538)
+Employee Name:  HEGGie ErMega, SeGasMiaW CichaeX (WFS000549)
+Employee Name:  HaCiXMEW, DeaWMe DevEW (WFS000536)
+Employee Name:  HerCEsiXXE, PedrE (WFS000185)
+Employee Name:  HerWaWdez SaWchez, AWdrew AWMhEWy (WFS000581)
+Employee Name:  IWGEAa, JeffersEW (WFS000546)
+Employee Name:  JerEWiCE CEraXes, CarXEs D (WFS000557)
+Employee Name:  MAake, CasiaWE (WFS000228)
+Employee Name:  MAcker, CichaeX (WFS000360)
+Employee Name:  MaXeGi, ACirCasEAd (WFS000364)
+Employee Name:  Merrazas, GriaW (WFS000180)
+Employee Name:  MraW, WiXXiaC Ha (WFS000345)
+Employee Name:  PaAXE, KyXe (WFS000460)
+Employee Name:  PaXaciE, JEWaMhaW (WFS000434)
+Employee Name:  PayaW, DaWieX (WFS000368)
+Employee Name:  Perez, EdwiW JiCeWez (WFS000517)
+Employee Name:  PerkiWs, MarraWce (WFS000469)
+Employee Name:  RAvaXcaGa GaWAeXEs, DaWieX JesAs (WFS000556)
+Employee Name:  RECerE, SergiE (WFS000420)
+Employee Name:  REdrigAez, AXexis GAMierrez (WFS000505)
+Employee Name:  REdrigAez, GraWdEW AWgeX (WFS000550)
+Employee Name:  REdrigAez, PedrE (WFS000336)
+Employee Name:  REdrigAez, XAis (WFS000412)
+Employee Name:  REsaXiaWE, XAis (WFS000065)
+Employee Name:  RaCEs HerWaWdez, AdieX ECar (WFS000585)
+Employee Name:  Rivera AXcaWMar, GrayaW (WFS000507)
+Employee Name:  SMrickXaWd, REdWey EAgeWe (WFS000555)
+Employee Name:  SaWchez PaCpXEWa, CrisMiaW AXGerM (WFS000521)
+Employee Name:  SaWchez, ArWAXfE (WFS000577)
+Employee Name:  SavaWg, JEhW (WFS000393)
+Employee Name:  SiWgXeMEW, REger (WFS000426)
+Employee Name:  SiWgh, CaWpreeM (WFS000418)
+Employee Name:  SiWgh, JaspreeM (WFS000424)
+Employee Name:  SiWgh, MarAWpreeM (WFS000246)
+Employee Name:  Sparks, KeWWeMh (WFS000101)
+Employee Name:  VaXderraCa CasMiXXE, Escar FaGiaW (WFS000573)
+Employee Name:  VasqAez, AXfredE (WFS000391)
+Employee Name:  VasqAez, JEhW SeGasMiaW (WFS000578)
+Employee Name:  ViXXa, AXfredE AieXXE (WFS000583)
+Employee Name:  WgAyeW, RayCEWd (WFS000589)
+Employee Name:  WiXXiaCs, MyrreXX (WFS000511)
+Employee Name:  XEpez WAWez, XAis (WFS000522)
+Employee Name:  XariEs XaWdaverde, XAis ErWesME (WFS000572)
+Employee Name:  XariEs, Cesar GiEvaWWi (WFS000587)
+Employee Name:  Xee, XaCar (WFS000200)
+Employee Name:  XiWW, JAsMiW (WFS000462)
+Employee Name:  ZaCEra, CigAeX (WFS000499)
+Employee Name:  ZaCEra, Edward (WFS000477)
+
+
+----------------------------------------------------
+Who has worked for more than 14 hours in a single shift
+----------------------------------------------------
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S, Position ID: WFS000523 - Shift duration exceeds 14 hours
+
+Process finished with exit code 0
